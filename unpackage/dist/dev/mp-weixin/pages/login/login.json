@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "login-other": "/components/login/login-other"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": false,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "login-other": "/components/login/login-other"
+  }
+}

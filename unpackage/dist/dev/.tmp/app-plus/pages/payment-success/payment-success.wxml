@@ -1,0 +1,1 @@
+<view class="data-v-67ec97d1"><view class="success data-v-67ec97d1"><view class="f-active-color data-v-67ec97d1" style="font-size:52rpx;">支付成功</view><view data-event-opts="{{[['tap',[['goIndex',['$event']]]]]}}" class="return-index f-active-color data-v-67ec97d1" bindtap="__e">去首页再买点吧</view></view></view>

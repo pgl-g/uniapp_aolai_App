@@ -1,0 +1,2 @@
+setCssToHead(["wx-swiper.",[1],"data-v-42913d51{ width: 100%; height: ",[0,300],"; }\n.",[1],"img-index.",[1],"data-v-42913d51{ width: 100%; height: ",[0,300],"; }\n",],undefined,{path:"./components/Index/IndexSwiper.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./components/Index/IndexSwiper.wxml') } }));

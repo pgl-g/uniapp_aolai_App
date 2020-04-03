@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  其他登录方式  */
+.login-other.data-v-666f74ea{
+	padding: 100rpx 0;
+}
+.other-text.data-v-666f74ea{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding:50rpx 0;
+}
+.other-text view.data-v-666f74ea{
+	line-height: 0rpx;
+	padding:0 10rpx;
+}
+.other-text.data-v-666f74ea:after{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	content: '';
+	height: 2rpx;
+	background-color: #CCCCCC;
+}
+.other-text.data-v-666f74ea::before{
+	-webkit-box-flex:1;
+	-webkit-flex:1;
+	        flex:1;
+	content: '';
+	height: 2rpx;
+	background-color: #CCCCCC;
+}
+.other.data-v-666f74ea{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.other-item.data-v-666f74ea{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack:center;
+	-webkit-justify-content:center;
+	        justify-content:center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.other-item image.data-v-666f74ea{
+	width:80rpx;
+	height: 80rpx;
+}
+/*  其他登录方式  end  */
+

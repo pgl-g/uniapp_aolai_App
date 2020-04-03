@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni/uni-nav-bar/uni-nav-bar"
+  }
+}

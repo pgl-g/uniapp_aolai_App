@@ -1,0 +1,69 @@
+
+.content.data-v-1a0481d7 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+
+/* 左边样式 */
+.list-left.data-v-1a0481d7 {
+	width: 200rpx;
+}
+.left-item.data-v-1a0481d7 {
+	border: 2rpx solid #FFFFFF;
+	font-size: 28rpx;
+	font-weight: bold;
+	background-color: #F7F7F7;
+}
+.left-name.data-v-1a0481d7 {
+	padding: 30rpx 6rpx;
+	text-align: center;
+}
+.left-name-active.data-v-1a0481d7 {
+	border-left: 8rpx solid #49bdfb;
+	background-color: #FFFFFF;
+}
+
+/* 右边样式 */
+.list-right.data-v-1a0481d7 {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	padding-left: 30rpx;
+}
+.list-title.data-v-1a0481d7 {
+	font-weight: bold;
+	padding: 30rpx 0;
+}
+.right-content.data-v-1a0481d7 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.right-item.data-v-1a0481d7 {
+	width: 150rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	padding: 10rpx;
+}
+.right-name.data-v-1a0481d7 {
+	padding: 16rpx 0;
+}
+.right-img.data-v-1a0481d7 {
+	width: 150rpx;
+	height: 150rpx;
+}
+

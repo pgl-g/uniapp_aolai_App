@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "输入手机号",
+  "usingComponents": {
+    "lines": "/components/common/Lines"
+  }
+}

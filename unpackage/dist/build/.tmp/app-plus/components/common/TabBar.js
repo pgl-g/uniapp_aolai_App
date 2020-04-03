@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/common/TabBar"],{"17bc":function(t,a,n){"use strict";n.r(a);var e=n("77ce"),c=n.n(e);for(var i in e)"default"!==i&&function(t){n.d(a,t,(function(){return e[t]}))}(i);a["default"]=c.a},"1c1f":function(t,a,n){},"77ce":function(t,a,n){"use strict";(function(t){Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var n={props:{currentPage:{type:String,default:"index"}},data:function(){return{tabbarList:[{pagePath:"index",iconPath:"/static/tabbar/index.png",selectedIconPath:"/static/tabbar/index-active.png",text:"首页"},{pagePath:"sort",iconPath:"/static/tabbar/sort.png",selectedIconPath:"/static/tabbar/sort-active.png",text:"分类"},{pagePath:"ShopCart",iconPath:"/static/tabbar/shop.png",selectedIconPath:"/static/tabbar/shop-active.png",text:"购物车"},{pagePath:"ProFile",iconPath:"/static/tabbar/profile.png",selectedIconPath:"/static/tabbar/profile-active.png",text:"我的"}]}},methods:{navigatorTo:function(a){"ShopCart"===a||"ProFile"===a?this.navigateTo({url:"../../pages/".concat(a,"/").concat(a),animationDuration:300,animationType:"fade-in"}):t.reLaunch({url:"../../pages/".concat(a,"/").concat(a)})}}};a.default=n}).call(this,n("6e42")["default"])},c138:function(t,a,n){"use strict";n.r(a);var e=n("e446"),c=n("17bc");for(var i in c)"default"!==i&&function(t){n.d(a,t,(function(){return c[t]}))}(i);n("d9a3");var o,r=n("f0c5"),u=Object(r["a"])(c["default"],e["b"],e["c"],!1,null,"1cbcf764",null,!1,e["a"],o);a["default"]=u.exports},d9a3:function(t,a,n){"use strict";var e=n("1c1f"),c=n.n(e);c.a},e446:function(t,a,n){"use strict";var e,c=function(){var t=this,a=t.$createElement;t._self._c},i=[];n.d(a,"b",(function(){return c})),n.d(a,"c",(function(){return i})),n.d(a,"a",(function(){return e}))}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/common/TabBar-create-component',
+    {
+        'components/common/TabBar-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("c138"))
+        })
+    },
+    [['components/common/TabBar-create-component']]
+]);

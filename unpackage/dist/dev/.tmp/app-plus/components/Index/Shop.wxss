@@ -1,0 +1,13 @@
+
+.shop-item.data-v-0bc6859f {
+	width: 100%;
+}
+.shop-big.data-v-0bc6859f {
+	width: 100%;
+	height: 350rpx;
+}
+.item.data-v-0bc6859f{
+	width: 100%;
+	display: inline-block;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "lines": "/components/common/Lines"
+  }
+}

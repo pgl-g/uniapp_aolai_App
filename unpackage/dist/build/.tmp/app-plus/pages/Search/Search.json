@@ -1,0 +1,26 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "nike",
+      "borderRadius": "15px",
+      "align": "left",
+      "autoFocus": true,
+      "backgroundColor": "#f7f7f7",
+      "placeholderColor": "#c5c5c5",
+      "disabled": false
+    },
+    "buttons": [
+      {
+        "float": "right",
+        "fontSize": "16px",
+        "text": "搜索",
+        "Width": "60px",
+        "color": "#303133"
+      }
+    ]
+  },
+  "usingComponents": {
+    "lines": "/components/common/Lines"
+  }
+}

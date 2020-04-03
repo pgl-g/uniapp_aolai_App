@@ -1,0 +1,28 @@
+
+.goods-content.data-v-af210c6a {
+	padding: 10rpx 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	background-color: #F7F7F7;
+}
+.goods-text.data-v-af210c6a {
+	width: 360rpx;
+	padding: 0 10rpx;
+	font-size: 26rpx;
+}
+.goods-img.data-v-af210c6a {
+	width: 160rpx;
+	height: 160rpx;
+}
+.goods-name.data-v-af210c6a {
+	font-size: 26rpx;
+}
+.goods-size.data-v-af210c6a {
+	font-size: 24rpx;
+}
+
+

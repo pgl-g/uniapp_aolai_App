@@ -1,0 +1,27 @@
+
+.success.data-v-0343eb63 {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.return-index.data-v-0343eb63 {
+	padding: 10rpx 60rpx;
+	border: 2rpx solid #49BDFB;
+	border-radius: 40rpx;
+}
+

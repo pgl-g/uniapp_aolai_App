@@ -1,0 +1,24 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "nike",
+      "borderRadius": "15px",
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "placeholderColor": "#c5c5c5"
+    },
+    "buttons": [
+      {
+        "float": "right",
+        "fontSize": "16px",
+        "text": "筛选",
+        "Width": "60px",
+        "color": "#303133"
+      }
+    ]
+  },
+  "usingComponents": {
+    "shop-list": "/components/common/ShopList"
+  }
+}

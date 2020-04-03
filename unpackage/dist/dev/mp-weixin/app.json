@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/sort/sort",
+    "pages/ShopCart/ShopCart",
+    "pages/ProFile/ProFile",
+    "components/Index/IndexSwiper",
+    "components/Index/Recommend",
+    "pages/Search/Search",
+    "pages/SearchList/SearchList",
+    "pages/details/details",
+    "pages/MyConfig/MyConfig",
+    "pages/MyPathConfig/MyPathConfig",
+    "pages/MyAddPath/MyAddPath",
+    "pages/MyOrder/MyOrder",
+    "pages/confrim-order/confrim-order",
+    "pages/payment/payment",
+    "pages/payment-success/payment-success",
+    "pages/login/login",
+    "pages/login-tel/login-tel",
+    "pages/login-code/login-code"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap84.json"
+}

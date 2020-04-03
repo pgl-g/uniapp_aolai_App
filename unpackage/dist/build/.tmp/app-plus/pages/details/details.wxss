@@ -1,0 +1,103 @@
+.content.data-v-6d1dd5c4 {
+  padding-bottom: 90rpx;
+}
+swiper.data-v-6d1dd5c4 {
+  width: 100%;
+  height: 700rpx;
+}
+.swiper-img.data-v-6d1dd5c4 {
+  width: 100%;
+  height: 700rpx;
+}
+.details-goods.data-v-6d1dd5c4 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 36rpx;
+  padding: 10rpx 0;
+}
+.details-img.data-v-6d1dd5c4 {
+  width: 100%;
+}
+.details-foot.data-v-6d1dd5c4 {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background-color: #FFFFFF;
+  width: 100%;
+  height: 90rpx;
+}
+.details-foot .iconfont.data-v-6d1dd5c4 {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 100%;
+  background-color: #000;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0 10rpx;
+}
+.details-foot .add-shopcar.data-v-6d1dd5c4 {
+  margin: 0 40rpx;
+  padding: 6rpx 30rpx;
+  background-color: #000;
+  color: #fff;
+  border-radius: 40rpx;
+}
+.details-foot .purchase.data-v-6d1dd5c4 {
+  margin: 0 40rpx;
+  padding: 6rpx 30rpx;
+  background-color: #49bdfb;
+  color: #fff;
+  border-radius: 40rpx;
+}
+.pop.data-v-6d1dd5c4 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+}
+.pop-mask.data-v-6d1dd5c4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 100%;
+}
+.pop-box.data-v-6d1dd5c4 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FFFFFF;
+}
+.pop-box .pop-img.data-v-6d1dd5c4 {
+  width: 260rpx;
+  height: 260rpx;
+}
+.pop-box .pop-sub.data-v-6d1dd5c4 {
+  line-height: 80rpx;
+  background-color: #49BDFB;
+  color: #fff;
+  text-align: center;
+}
+.pop-box .pop-num.data-v-6d1dd5c4 {
+  padding: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+

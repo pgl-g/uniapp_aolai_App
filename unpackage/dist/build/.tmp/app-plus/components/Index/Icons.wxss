@@ -1,0 +1,31 @@
+
+.icons.data-v-ff2b4f94 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.icons-item.data-v-ff2b4f94 {
+	width: 25%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: column;
+	        flex-flow: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-top: 20rpx;
+}
+.icons-img.data-v-ff2b4f94 {
+	width: 110rpx;
+	height: 110rpx;
+}
+.icons-name.data-v-ff2b4f94 {}
+

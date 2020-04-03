@@ -1,0 +1,17 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "请输入关键字",
+      "borderRadius": "15px",
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "placeholderColor": "#c5c5c5",
+      "disabled": true
+    }
+  },
+  "usingComponents": {
+    "lines": "/components/common/Lines",
+    "tab-bar": "/components/common/TabBar"
+  }
+}

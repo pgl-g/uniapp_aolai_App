@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "tab-bar": "/components/common/TabBar"
+  }
+}

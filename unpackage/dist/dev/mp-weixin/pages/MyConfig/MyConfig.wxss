@@ -1,0 +1,20 @@
+
+.config-item.data-v-2d79f952{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack: justify;
+		-webkit-justify-content: space-between;
+		        justify-content: space-between;
+		padding: 20rpx;
+		border-bottom: 2rpx solid #CCCCCC;
+}
+.my-exit.data-v-2d79f952{
+	background-color: #49bdfb;
+	width: 100%;
+	line-height: 80rpx;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 30rpx;
+}
+
